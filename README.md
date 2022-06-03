@@ -17,7 +17,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
    <img align="right" alt="Lucas-Pic" height="150" style="border-radius:50px;" src="
- src="https://media.discordapp.net/attachments/982356974786183231/982357334842023997/Lucas-Pic.gif">
   </div>
                                                                                                    
  ##
