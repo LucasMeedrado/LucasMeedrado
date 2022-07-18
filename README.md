@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Lucas Medrado 👋
 
 
-- 🌱 Estudando Java Web/Mbile
+- 🌱 Estudando Java Web/Mobile
 - 📫 Contate-me no email: lucasmedrado.tec@gmail.com
 - 😄 Pronouns: ele/dele
 
