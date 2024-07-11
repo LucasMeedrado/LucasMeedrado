@@ -1,49 +1,42 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Lucas Medrado
 
-###
+👋 Olá, sou o Lucas Medrado, um entusiasta de Business Intelligence (BI) com 27 anos, da Colômbia. Estou começando minha jornada no campo de BI e estou empolgado para aprender e crescer nessa área fascinante.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+### 🎯 Objetivo
 
-###
+Meu objetivo é me tornar um profissional focado exclusivamente em Business Intelligence, utilizando dados para gerar insights valiosos e auxiliar na tomada de decisões estratégicas.
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🌱 Em Aprendizado
 
-###
+#### Fundamentos de BI e Análise de Dados
+- **SQL**: Aprendendo fundamentos de consultas e manipulação de dados.
+- **Ferramentas de BI**: Explorando ferramentas como Tableau e Power BI.
+- **ETL (Extract, Transform, Load)**: Estudando processos de ETL para coleta, transformação e carga de dados.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+#### Programação e Estatística
+- **Python**: Iniciando com bibliotecas como Pandas e NumPy para análise de dados.
+- **Estatística**: Aprendendo conceitos básicos de estatística aplicados à análise de dados.
 
-###
+#### Cloud Computing e Big Data
+- **Plataformas de Nuvem**: Explorando serviços de nuvem como AWS e Google Cloud.
+- **Big Data**: Conhecendo as tecnologias de big data, como Hadoop e Spark.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🚀 Projetos Futuros
+- Ainda não iniciados
 
-###
+### 🌲 Hobbies e Interesses
+- **Futebol**
+- **NBA**
+- **Comer**
+- **Jogar videogames**
 
-<br clear="both">
+### 📫 Como me encontrar
+- **Email**: lucasmedrado@example.com
+- **LinkedIn**: [linkedin.com/in/lucasmedrado](https://www.linkedin.com/in/lucasmedrado)
+- **Instagram**: [@lucasmedrado](https://www.instagram.com/lucasmedrado)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+### 📈 GitHub Stats
+![Lucas Medrado's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmedrado&show_icons=true&theme=dracula)
 
-###
+### 🌐 Linguagens e Ferramentas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmedrado&layout=compact&theme=dracula)
