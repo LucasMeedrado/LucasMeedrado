@@ -31,9 +31,9 @@ Meu objetivo é me tornar um profissional focado exclusivamente em Business Inte
 - **Jogar videogames**
 
 ### 📫 Como me encontrar
-- **Email**: lucasmedrado@example.com
+- **Email**: lucasmedrado.tec@gmail.com
 - **LinkedIn**: [linkedin.com/in/lucasmedrado](https://www.linkedin.com/in/lucasmedrado)
-- **Instagram**: [@lucasmedrado](https://www.instagram.com/lucasmedrado)
+- **Instagram**: [@medrado.tec](https://www.instagram.com/medrado.tec)
 
 ### 📈 GitHub Stats
 ![Lucas Medrado's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmedrado&show_icons=true&theme=dracula)
