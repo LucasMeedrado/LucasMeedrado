@@ -1,6 +1,6 @@
 ## Lucas Medrado
 
-👋 Olá, sou o Lucas Medrado, um entusiasta de Business Intelligence (BI) com 27 anos, da Colômbia. Estou começando minha jornada no campo de BI e estou empolgado para aprender e crescer nessa área fascinante.
+👋 Olá, sou o Lucas Medrado, um entusiasta de Business Intelligence (BI) com 27 anos. Estou começando minha jornada no campo de BI e estou empolgado para aprender e crescer nessa área fascinante.
 
 ### 🎯 Objetivo
 
@@ -32,7 +32,7 @@ Meu objetivo é me tornar um profissional focado exclusivamente em Business Inte
 
 ### 📫 Como me encontrar
 - **Email**: lucasmedrado.tec@gmail.com
-- **LinkedIn**: [linkedin.com/in/lucasmedrado](https://www.linkedin.com/in/lucasmedrado)
+- **LinkedIn**: [linkedin.com/in/lucas-gomes-medrado-518921197/](https://www.linkedin.com/in/lucas-gomes-medrado-518921197/)
 - **Instagram**: [@medrado.tec](https://www.instagram.com/medrado.tec)
 
 ### 📈 GitHub Stats
